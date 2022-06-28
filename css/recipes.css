@@ -82,14 +82,12 @@ span.author-name {
 .recipe-grand-image {
   border: none;
   border-radius: 5px;
-  /* cursor: pointer; */
-  margin: 70px 0 0 0;
+  margin: 60px 0 0 0;
   height: 600px;
   width: 100%;
 }
 
 .small-image-recipe {
-  /* cursor: pointer; */
   margin: 8px 15px 0 7px;
   border-radius: 5px;
   transition: transform 0.2s;

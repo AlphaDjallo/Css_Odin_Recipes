@@ -16,6 +16,14 @@ body {
   max-width: 1200px;
 }
 
+h2 {
+  font-family: Georgia, serif;
+  color: #666666;
+  margin: 15px 0 10px;
+  text-align: center;
+  text-decoration: underline;
+}
+
 img {
   display: inline-block;
   height: auto;
@@ -49,7 +57,7 @@ img {
 
 .recipes-img {
   border-radius: 5px;
-  margin: 20px 0px 0 57px;
+  margin: 8px 0px 0 57px;
   transition: transform 0.2s;
   height: 200px;
   width: 320px;
